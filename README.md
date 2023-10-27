@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Shomari! <br> <a href='https://www.linkedin.com/in/shomaricrockett28/'> Engineer </a>, <a href=''> Programmer </a>, <a href='https://github.com/ShomariC888/CyberSecurityProject'> Cybersecurity Student </a>, <a href='https://secureaiinsights.com'>Blogger</a></h1>
+<h1>Hi, I'm Shomari! <br> <a href='https://www.linkedin.com/in/shomaricrockett28/'> Engineer </a>, <a href=''> Programmer </a>, <a href='https://github.com/ShomariC888/CyberSecurityProject'> Cybersecurity Student </a><!--, <a href='https://secureaiinsights.com'>Blogger</a>--></h1>
 
 <h2>Certifications</h2>
 <ul>
